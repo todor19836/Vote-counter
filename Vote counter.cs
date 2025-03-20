@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         // Списък с кандидати
-        List<string> candidates = new List<string> { "Кандидат 1", "Кандидат 2", "Кандидат 3" };
+        List<string> candidates = new List<string> { "Гошо", "Мартин", "Иван" };
 
         // Словар за гласовете
         Dictionary<string, int> votes = new Dictionary<string, int>();
